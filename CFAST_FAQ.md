@@ -1,0 +1,1 @@
+[Frequently asked questions](http://www.nist.gov/el/fire_research/cfast-faqs.cfm)
